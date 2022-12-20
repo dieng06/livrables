@@ -1,0 +1,3 @@
+nodejs :v18.12.1
+npm :v8.19.2
+git :version 2.39.0.windows.1
